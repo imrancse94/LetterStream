@@ -1,0 +1,19 @@
+{
+    "name": "imrancse/letterstream",
+    "description": "LetterStream Api integration for PHP",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Imrancse\\Letterstream\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Imran Hossain",
+            "email": "imrancse94@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
